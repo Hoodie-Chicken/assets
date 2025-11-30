@@ -1,0 +1,10 @@
+{
+    "name": "Hoodie Chicken",
+    "symbol": "HCT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Hoodie Chicken is a reverse psychology movement to fight weapon violence and online bullying.",
+    "website": "https://hoodiechicken.com",
+    "explorer": "https://basescan.org/token/0x8C0878f2Ee94c9dB70351DAe964B2193ed1455FB",
+    "id": "0x8C0878f2Ee94c9dB70351DAe964B2193ed1455FB"
+}
